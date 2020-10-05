@@ -1,0 +1,13 @@
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\bin\Debug\netcoreapp3.1\cau1_mang.exe
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\bin\Debug\netcoreapp3.1\cau1_mang.deps.json
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\bin\Debug\netcoreapp3.1\cau1_mang.runtimeconfig.json
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\bin\Debug\netcoreapp3.1\cau1_mang.runtimeconfig.dev.json
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\bin\Debug\netcoreapp3.1\cau1_mang.dll
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\bin\Debug\netcoreapp3.1\cau1_mang.pdb
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\obj\Debug\netcoreapp3.1\cau1_mang.csprojAssemblyReference.cache
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\obj\Debug\netcoreapp3.1\cau1_mang.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\obj\Debug\netcoreapp3.1\cau1_mang.AssemblyInfo.cs
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\obj\Debug\netcoreapp3.1\cau1_mang.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\obj\Debug\netcoreapp3.1\cau1_mang.dll
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\obj\Debug\netcoreapp3.1\cau1_mang.pdb
+C:\Users\asus\Documents\PXU.GYM\cau1_mang\obj\Debug\netcoreapp3.1\cau1_mang.genruntimeconfig.cache
